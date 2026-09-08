@@ -1,0 +1,22 @@
+{
+  "id": "the-orb-skill",
+  "title": "The ORB Skill",
+  "subtitle": "Education & self-improvement",
+  "description": "A practical guide to using ORB for education and self-improvement: twenty connected readings, exercises, sources and portable field notes.",
+  "edition": "field-guide-v1",
+  "authored": "2026-09-07",
+  "points": 20,
+  "narrationReady": false,
+  "videoReady": false,
+  "availableJourneys": [],
+  "tags": [
+    "education",
+    "self-improvement",
+    "ORB",
+    "learning"
+  ],
+  "modelId": null,
+  "orbSkillVersion": null,
+  "interface": "Interactive field guide",
+  "archive": "https://visualizationcreation.github.io/orb-archive/"
+}
